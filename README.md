@@ -1,5 +1,7 @@
 # Registrator Privacy Policy
 
-Static privacy policy page for the Android app `lizaalert.registrator`.
+Публичная страница с политикой конфиденциальности приложения Registrator.
 
-Published with GitHub Pages.
+Опубликованная версия: https://sorix.github.io/registrator-privacy/
+
+В кратком виде: приложение не отправляет данные разработчику, не использует аналитику, рекламу или трекинг. Пользователь может самостоятельно вводить, хранить локально, экспортировать и передавать данные через функции своего устройства.
